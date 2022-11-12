@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'newyork': 'new_york_city.csv',
               'washington': 'washington.csv' }
 DAY_OF_WEEK = ['mon','tue','wed','thu','fri','sat','sun','all']
-MONTH_OF_YEAR = ['all', 'jan','feb','mar','apr','may','jun'] #,'jul','aug','sep','oct','nov','dec']
+MONTH_OF_YEAR = ['all', 'jan','feb','mar','apr','may','jun']
 
 #Column checking to handle exception
 BIRTH_YEAR_COL = "Birth Year"
@@ -250,11 +250,6 @@ def main():
         if is_show_data == 'yes':
             display(df.iloc[0:5])
             print('-'*40)
-
-        #---Test only
-        #df = load_data("washington", "may", "fri")
-        #display(df)
-        #---------------------
 
         time_stats(df)
         station_stats(df)
