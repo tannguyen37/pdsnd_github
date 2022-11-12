@@ -1,7 +1,7 @@
-#### Explore US Bikeshare Data
-#### *Copyright© 2022 by Nguyen Minh Tan - TanNM15*
-#### Repository: https://github.com/tannguyen37/pdsnd_github.git
-
+##### Explore US Bikeshare Data
+##### *Copyright© 2022 by Nguyen Minh Tan - TanNM15*
+##### Repository: https://github.com/tannguyen37/pdsnd_github.git
+-----------------------------------------------------------------
 ### Date created
 Created on 2022-11-12.
 
