@@ -16,7 +16,7 @@ bikeshare.py is Python scripts, that takes in raw input to create an interactive
 Please download these csv data files at below, then place them same folder of bikeshare.py
 ###### *chicago.csv https://view8f034eb2.udacity-student-workspaces.com/file_download/home/workspace/chicago.csv*
 ###### *new_york_city.csv https://view8f034eb2.udacity-student-workspaces.com/file_download/home/workspace/new_york_city.csv*
-###### *washington.csv: https://view8f034eb2.udacity-student-workspaces.com/file_download/home/workspace/washington.csv
+###### *washington.csv: https://view8f034eb2.udacity-student-workspaces.com/file_download/home/workspace/washington.csv*
 
 ### Credits
 https://github.com/tannguyen37/pdsnd_github.git
